@@ -103,7 +103,6 @@ Through this project:
 Task_1_Visualization_Documentation
 │── Task_1_Data_Visualization_Documentation.docx
 │── Task_1_Data_Visualization_Documentation.pdf
-│── screenshots
 │── README.md
 ```
 
