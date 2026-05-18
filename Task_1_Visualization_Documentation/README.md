@@ -76,22 +76,6 @@ The project includes documentation and examples for:
 
 ---
 
-## 🖼️ Sample Visualizations
-
-### Line Chart
-![Line Chart](screenshots/line_chart.png)
-
-### Bar Chart
-![Bar Chart](screenshots/bar_chart.png)
-
-### Heatmap
-![Heatmap](screenshots/heatmap.png)
-
-### Boxplot
-![Boxplot](screenshots/boxplot.png)
-
----
-
 ## 🔍 Key Learnings
 
 Through this project:
